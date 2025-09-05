@@ -1,4 +1,4 @@
-# 🎓 E-Learning System (E-Gyan Portal)
+#  E-Learning System (E-Gyan Portal)
 
 A full-featured web-based **E-Learning Management System** built with **Django**.
 This project allows students and teachers to interact through a secure, structured platform for online learning .
@@ -7,12 +7,12 @@ This project allows students and teachers to interact through a secure, structur
 
 ##  Features
 
-- 👨‍🎓 Student registration, login, course enrollment
-- 👩‍🏫 Teacher dashboard for uploading courses, assignments
-- 🔒 Role-based access control (Student / Teacher ( Admin))
-- 📄 Assignment uploads and submission tracking
-- 📚 Course material uploads
-- 📊 Dashboard, progress tracking
+-  Student registration, login, course enrollment
+-  Teacher dashboard for uploading courses, assignments
+-  Role-based access control (Student / Teacher ( Admin))
+-  Assignment uploads and submission tracking
+-  Course material uploads
+-  Dashboard, progress tracking
 
 ---
 
