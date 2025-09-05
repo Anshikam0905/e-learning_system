@@ -46,8 +46,8 @@
                                     <td>{{p.email}}</td>
                                     <!--<td>-</td>-->
                                     <td>
-                                            <a href="{% url 'uploaddata' p.id %}"><i class="fa-solid fa-pen-to-square" style="color: #006eff;"></i></a>
-                                            &nbsp;&nbsp;&nbsp;<a href="{% url 'deleteuser' p.id %}"><i class="fa-solid fa-trash" style="color: #ff0000;"></i></a>
+                                        <a href="{% url 'uploaddata' p.id %}"><i class="fa-solid fa-pen-to-square" style="color: #006eff;"></i></a>
+                                        <a href="{% url 'deleteuser' p.id %}"><i class="fa-solid fa-trash" style="color: #ff0000;"></i></a>
                                     </td>
                                 </tr>
                                 {% endfor %}
@@ -55,11 +55,6 @@
                         </table>
                     </div>
                  </div>
-
-               
-
-    {% endblock %}
-
-    
+    {% endblock %} 
 </body>
 </html>
